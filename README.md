@@ -1,4 +1,4 @@
-# ReactCrypoVisualiser
+# ReactCryptoVisualiser
 
 An example of data visualisation in React.
 
